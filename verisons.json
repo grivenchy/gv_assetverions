@@ -9,11 +9,12 @@
     {
       "version": "1.0.0",
       "changes": "Initial release"
-    },
-    "gvchy_familysystem": [
+    }
+  ],
+  "gvchy_familysystem": [
     {
       "version": "0.1.0",
       "changes": "Initial release"
-    },
+    }
   ]
 }
