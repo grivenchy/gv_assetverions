@@ -15,7 +15,11 @@
     {
       "version": "0.1.0",
       "changes": "Initial release"
-    }
+    },
+    {
+      "version": "0.1.1",
+      "changes": "Optimized an issue in the script with cpu spikes and fixed were family allowances were not being given out. "
+    },
   ],
   "gv_weaponmanager": [
     {
